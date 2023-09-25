@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roelma2000&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roelma2ooo)](https://github.com/roelma2000/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roelma2000&theme=chalk)](https://github.com/roelma2000/github-profile-trophy)
 
